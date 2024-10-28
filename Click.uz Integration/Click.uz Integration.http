@@ -1,0 +1,6 @@
+@Click.uz_Integration_HostAddress = http://localhost:5075
+
+GET {{Click.uz_Integration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
