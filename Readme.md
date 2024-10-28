@@ -22,7 +22,7 @@ Loyihada Click.uz uchun sozlamalar quyidagicha ko'rinishda bo'ladi:
 
 - **SERVICE_ID**: Click tizimida yaratilgan xizmat identifikatori (Service ID).
 - **MERCHANT_ID**: Click tizimida yaratilgan savdogar (merchant) identifikatori.
-- **SECRET_KEY**: Maxfiy kalit (to'lov xavfsizligini ta'minlash uchun ishlatiladi).
+- **SECRET_KEY**: Click tizimida yaratilgan Maxfiy kalit (to'lov xavfsizligini ta'minlash uchun ishlatiladi).
 - **MERCHANT_USER_ID**: Click tizimida yaratilgan savdogar foydalanuvchi identifikatori.
 - **Url**: To'lov uchun ishlatiladigan API URL.
 - **ReturnUrl**: To'lov muvaffaqiyatli yoki muvaffaqiyatsiz bo'lgandan so'ng foydalanuvchini qaytaradigan URL.
